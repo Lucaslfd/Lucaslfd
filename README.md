@@ -26,4 +26,8 @@
     <img aling="center" alt="api" src="https://github-readme-stats.vercel.app/api?username=Lucaslfd&theme=blue-green">
 </div>
 
+<div style="display: inline_block"></br>
+    <img aling="center" alt="api" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslfd&theme=blue-green">
+</div>
+
 ### Apaixonado por tecnologia
