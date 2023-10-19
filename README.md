@@ -23,8 +23,8 @@
 </div>
 
 <div style="display: flex"></br>
+    <img aling="center" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslfd&hide_progress=true"></br>
     <img aling="center" alt="api" src="https://github-readme-stats.vercel.app/api?username=Lucaslfd&theme=blue-green">
-    <img aling="center" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslfd&theme=blue-green">
 </div>
 
 
