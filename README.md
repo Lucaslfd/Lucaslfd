@@ -1,7 +1,7 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <div align="center" style="display: inline_block">
 
-### Hello, my name is Lucas Ferreira
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Ferreira+Dias;I'm+21+years+old;I+am+from+Contagem,+MG;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 🌱 I’m currently learning React.JS | Node.JS <br>
 😄 Pronouns: ele/dele
@@ -23,7 +23,7 @@
     <img align="center" height="70" width="70" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
 
